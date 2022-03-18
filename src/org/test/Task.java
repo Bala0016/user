@@ -29,6 +29,9 @@ public class Task {
 			System.out.println(s1.getId());
 			System.out.println(s1.getName());
 			System.out.println(s1.getEmail());
+			System.out.println("bala");
+			
+			
 		}
 		
 		Map<Integer,Test> m = new HashMap<>();
